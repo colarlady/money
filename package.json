@@ -1,0 +1,19 @@
+{
+  "name": "money",
+  "version": "1.0.0",
+  "description": "知识就是金钱🍖🍗🥩\r ## 记得每天过来更新哦！！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colarlady/money.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colarlady/money/issues"
+  },
+  "homepage": "https://github.com/colarlady/money#readme"
+}
